@@ -8,7 +8,7 @@ Langage de programmation : Java (Eclipse).
 Résumé du projet : 
 Ce projet a pour but de faire une analyse Lexicale, Syntaxique et Sémantique d'un fichier source donné.
 
-Pour être reconnu chaque fichier doit impérativement avoir l'extension ".text" ou ".COMPILA" .
+Pour être reconnu chaque fichier doit avoir l'extension ".COMPILA" .
 
 Exemple de l'exécution d'un programme : 
 <img width="955" alt="Capture d’écran 2020-01-18 à 14 47 45" src="https://user-images.githubusercontent.com/60031907/72664773-36165400-3a02-11ea-85ff-189bf0f88d02.png">
